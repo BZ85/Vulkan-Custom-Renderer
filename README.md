@@ -26,4 +26,5 @@ Animation: press space bar to start or stop
 
 ### References
 The resource of the 3D model is from https://free3d.com/3d-model/e-45-aircraft-71823.html
+Vulkan Tutorial: https://vulkan-tutorial.com/
 
