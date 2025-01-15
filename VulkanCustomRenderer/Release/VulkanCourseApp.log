@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Vulkan Projects\VulkanCourseApp\VulkanCourseApp\main.cpp(75,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+  VulkanRenderer.cpp
+C:\Vulkan Projects\VulkanCourseApp\VulkanCourseApp\VulkanRenderer.cpp(139,14): warning C4018: '>=': signed/unsigned mismatch
+C:\Vulkan Projects\VulkanCourseApp\VulkanCourseApp\VulkanRenderer.cpp(1124,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Vulkan Projects\VulkanCourseApp\VulkanCourseApp\VulkanRenderer.cpp(1199,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Vulkan Projects\VulkanCourseApp\VulkanCourseApp\Utilities.h(87): warning C4715: 'findMemoryTypeIndex': not all control paths return a value
+C:\Vulkan Projects\VulkanCourseApp\VulkanCourseApp\Utilities.h(87): warning C4715: 'findMemoryTypeIndex': not all control paths return a value
+  All 1221 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  VulkanCourseApp.vcxproj -> C:\Vulkan Projects\VulkanCourseApp\Release\VulkanCourseApp.exe

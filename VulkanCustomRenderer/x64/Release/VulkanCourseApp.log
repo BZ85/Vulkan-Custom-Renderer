@@ -1,0 +1,15 @@
+﻿  Mesh.cpp
+C:\Vulkan Projects\VulkanCourseApp\VulkanCourseApp\Mesh.cpp(11,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Vulkan Projects\VulkanCourseApp\VulkanCourseApp\Mesh.cpp(12,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  VulkanRenderer.cpp
+C:\Vulkan Projects\VulkanCourseApp\VulkanCourseApp\VulkanRenderer.cpp(1124,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Vulkan Projects\VulkanCourseApp\VulkanCourseApp\VulkanRenderer.cpp(1157,27): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Vulkan Projects\VulkanCourseApp\VulkanCourseApp\VulkanRenderer.cpp(1199,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+C:\Vulkan Projects\VulkanCourseApp\VulkanCourseApp\main.cpp(75,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  238 of 1490 functions (16.0%) were compiled, the rest were copied from previous compilation.
+    144 functions were new in current compilation
+    138 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  VulkanCourseApp.vcxproj -> C:\Vulkan Projects\VulkanCourseApp\x64\Release\VulkanCourseApp.exe
