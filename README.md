@@ -25,6 +25,6 @@ Rotation: X axis: press left mouse button and dragging vertically
 Animation: press space bar to start or stop
 
 ### References
-The resource of the 3D model is from https://free3d.com/3d-model/e-45-aircraft-71823.html
+The resource of the 3D model is from https://free3d.com/3d-model/e-45-aircraft-71823.html </br>
 Vulkan Tutorial: https://vulkan-tutorial.com/
 
